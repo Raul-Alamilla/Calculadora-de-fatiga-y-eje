@@ -1,7 +1,4 @@
 # Calculadora-de-fatiga-y-eje
-Aquí tienes un **README.md listo para GitHub** para tu proyecto. Está redactado de forma clara y profesional para un repositorio de ingeniería.
-
----
 
 # Calculadora de Fatiga de Ejes Mecánicos
 
